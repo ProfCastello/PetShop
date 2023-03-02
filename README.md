@@ -2,4 +2,4 @@
 
 # Little Petshop
 
-![RepoSize][repoSizeImage]
+![RepoSize][repoSizeImage] ![Size][repoSizeImage]
