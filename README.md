@@ -5,7 +5,8 @@
 
 <h4 align="center">
 
-[ ![RepoSize][repoSizeImage](https://google.com)] ![Size][repoSizeImage]
+[![RepoSize][repoSizeImage]](https://google.com) ![Size][repoSizeImage]
+
 
 </h4>
 
