@@ -3,8 +3,7 @@
 
 <h1 align="center"> Little Petshop</h1>
 
-![RepoSize][repoSizeImage] 
+![RepoSize][repoSizeImage] ![Size][repoSizeImage]
 
-![Size][repoSizeImage]
 
 ![Pizza][pizzaImage]
