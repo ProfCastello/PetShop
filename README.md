@@ -4,8 +4,8 @@
 <h1 align="center">Little Petshop</h1>
 
 <h4 align="center">
-
-[![RepoSize][repoSizeImage]](https://google.com) ![Size][repoSizeImage]
+<!-- Ola -->
+![RepoSize][repoSizeImage] ![Size][repoSizeImage]
 
 </h4>
 
