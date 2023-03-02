@@ -4,7 +4,6 @@
 <h1 align="center"> Little Petshop</h1>
 
 <h4 align="center">
-
 ![RepoSize][repoSizeImage] ![Size][repoSizeImage]
 
 </h4>
