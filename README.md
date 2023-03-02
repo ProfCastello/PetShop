@@ -7,6 +7,7 @@
 
 [![RepoSize][repoSizeImage]](https://google.com) ![Size][repoSizeImage]
 
+[I'm an inline-style link](https://www.google.com)
 
 </h4>
 
